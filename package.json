@@ -1,0 +1,27 @@
+{
+  "name": "cycode-epmon-canary",
+  "version": "1.0.0",
+  "description": "Harmless package flagged by Cycode EPMON on purpose, so you can verify the install is protected",
+  "main": "index.js",
+  "bin": {
+    "cycode-epmon-canary": "cli.js"
+  },
+  "files": [
+    "index.js",
+    "cli.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "cycode",
+    "epmon",
+    "canary",
+    "supply-chain"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cycodehq/epmon-canary.git"
+  },
+  "homepage": "https://github.com/cycodehq/epmon-canary#readme"
+}
