@@ -5,7 +5,7 @@ protected machine is blocked, which is how you verify the install:
 
 ```sh
 pip install cycode-epmon-canary
-# [BLOCK] pypi cycode-epmon-canary@1.0.0 reason=flagged by cycode-intel: EPMON canary package
+# [BLOCK] pypi cycode_epmon_canary@1.0.0 reason=flagged by cycode-intel: EPMON canary package
 ```
 
 If the install succeeds, EPMON is not wrapping your package manager. Running

@@ -14,7 +14,7 @@ Expected output on a protected machine:
 
 ```
 [BLOCK] npm cycode-epmon-canary@1.0.0 reason=flagged by cycode-intel: EPMON canary package
-[BLOCK] pypi cycode-epmon-canary@1.0.0 reason=flagged by cycode-intel: EPMON canary package
+[BLOCK] pypi cycode_epmon_canary@1.0.0 reason=flagged by cycode-intel: EPMON canary package
 ```
 
 The packages contain no install scripts, no dependencies and no network code.
