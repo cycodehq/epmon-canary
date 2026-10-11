@@ -21,7 +21,8 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cycodehq/epmon-canary.git"
+    "url": "git+https://github.com/cycodehq/epmon-canary.git",
+    "directory": "npm"
   },
   "homepage": "https://github.com/cycodehq/epmon-canary#readme"
 }
