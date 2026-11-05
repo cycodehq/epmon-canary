@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require "cycode_epmon_canary"
+
+puts CycodeEpmonCanary.canary
